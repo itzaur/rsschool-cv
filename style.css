@@ -1,0 +1,21 @@
+:root {
+  --font: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  box-sizing: border-box;
+
+  font-family: var(--font);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0;
+}
