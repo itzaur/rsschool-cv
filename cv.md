@@ -2,6 +2,8 @@
 
 # Drazdou Pavel
 
+![Image](photo.jpeg)
+
 ## ✨ Contacts
 
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="20" />](https://www.linkedin.com/in/pavel-drazdou-b703a51b6/)
